@@ -1,3 +1,6 @@
+#I used a walkthrough for this project given by Landon Schlangen through this YouTube video below: 
+# --> https://www.youtube.com/watch?v=j1l9XdsiHBo&t=599s
+
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
